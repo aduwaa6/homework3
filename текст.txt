@@ -1,4 +1,4 @@
-Din🤍, [8 дек. 2022 в 19:24]
+
 public class Main {
 
  
